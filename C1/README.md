@@ -21,4 +21,4 @@
 1. [X] 19: Comparing Go's Speed
 2. [X] 20: Formatting Strings In Go
 2. [X] 21: Runes and String Encoding
-2. [ ] 22: Fix More Bugs
+2. [X] 22: Fix More Bugs
