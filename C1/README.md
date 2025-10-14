@@ -16,4 +16,5 @@
 1. [X] 14: Same Line Declarations
 1. [X] 15: Small Memorty Footprint
 1. [X] 16: "
-1. [ ] 17: Constants
+1. [X] 17: Constants
+1. [ ] 18: Computed Constraints
