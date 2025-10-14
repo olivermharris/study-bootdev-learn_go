@@ -7,6 +7,8 @@
 * [X] Chapter One (Variables)
 * [ ] Chapter Two (Conditionals)
 * [ ] Chapter Three (Functions)
+
+  `Premium Required For Submission Beyond Point`
 * [ ] Chapter Four (Structs)
 * [ ] Chapter Five (Interfaces)
 * [ ] Chapter Six (Errors)
