@@ -1,7 +1,7 @@
 # Chapter Qustions
 
 L7: Go code generally runs **`faster`** than interpreted languages and compiles **`faster`** than other compiled languages
-L9: 
+L9:
 
 When should you elect to NOT use a 'default type'?
 
@@ -48,3 +48,7 @@ What's one of the purposes of the Go runtime
 ```markdown
 To cleanup unused memory
 ```
+
+L19:
+
+Does Go generally execute faster than Rust? `No`
