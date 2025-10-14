@@ -17,4 +17,4 @@
 1. [X] 15: Small Memorty Footprint
 1. [X] 16: "
 1. [X] 17: Constants
-1. [ ] 18: Computed Constraints
+1. [X] 18: Computed Constants
