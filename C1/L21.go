@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	const name = "boots"
+	const name = "🐻"
 	fmt.Printf("constant 'name' byte length: %d\n", len(name))
 	fmt.Printf("constant 'name' rune length: %d\n", utf8.RuneCountInString(name))
 	fmt.Println("=====================================")
