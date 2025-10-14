@@ -24,3 +24,4 @@
 2. [X] 22: Fix More Bugs
 2. [X] 23: Fix Types
 2. [X] 24: Type Inference
+2. [ ] 25:
