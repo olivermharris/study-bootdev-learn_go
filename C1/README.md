@@ -19,4 +19,5 @@
 1. [X] 17: Constants
 1. [X] 18: Computed Constants
 1. [X] 19: Comparing Go's Speed
-2. [ ] 20: Formatting Strings In Go
+2. [X] 20: Formatting Strings In Go
+2. [ ] 21: Runes and String Encoding
