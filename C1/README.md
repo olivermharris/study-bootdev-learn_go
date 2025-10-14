@@ -22,3 +22,4 @@
 2. [X] 20: Formatting Strings In Go
 2. [X] 21: Runes and String Encoding
 2. [X] 22: Fix More Bugs
+2. [ ] 23: Fix Types
