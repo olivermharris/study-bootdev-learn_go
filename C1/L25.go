@@ -12,7 +12,13 @@ func main() {
 
 	// Don't touch above this line
 
-	// ?
+	userLog := fmt.Sprintf("Name: %s %s, Age: %d, Rate: %.1f, Is Subscribed: %t, Message: %s",
+		fname,
+		lname,
+		age,
+		messageRate,
+		isSubscribed,
+		message)
 
 	// Don't touch below this line
 
